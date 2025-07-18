@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Eu+sou+a+Renata+Chaves+;Este+é+meu+perfil+GitHub+;Seja+Bem+vindo!;)](https://git.io/typing-svg)
 
 
-💻 Formada em Análise e Desenvolvimento de Sistemas
+
 🧩 Front-end: Angular | Back-end: Java  
 💻 Sistemas ágeis, eficientes e confiáveis  
 🌐 Criação de sites modernos e responsivos  
