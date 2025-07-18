@@ -8,7 +8,7 @@
 💻 Sistemas ágeis, eficientes e confiáveis  
 🌐 Criação de sites modernos e responsivos  
 🚀 Do código à experiência
-😄 Pronouns: ela/dela
+
 
 - 🚧 Em Construção
 ##
